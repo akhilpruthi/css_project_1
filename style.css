@@ -1,0 +1,56 @@
+.maincontainer{
+    
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    height: 100%;
+    background-color: black;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* align-self: center; */
+}
+.container1{
+    background-color: white;
+    /* height: 25%; */
+    /* width:50%; */
+    margin:auto;
+    background-color: #EEEEEE;
+    padding: 0rem 1rem;
+    border-radius: 2px;
+   
+}
+
+.button{
+    font-weight: 500;
+    background-color: #42C9FF;
+    color:white;
+    height: 50px;
+    width: 150px;
+    border-color: white;
+   
+}
+
+.heading{
+    color: #23729C ;
+    text-align: left;
+
+}
+
+.text_1{
+    color:#777E8E;
+    padding: 0%;
+    text-align: left;
+}
+
+.text_2{
+    color:#777E8E;
+    padding: 0%;
+    text-align: left;
+}
+
+.email{
+    text-align: center;
+    border-color: white;
+    border-width: 0;
+}
